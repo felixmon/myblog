@@ -80,10 +80,11 @@ git push origin master
 </code></pre><p>Github will ask for your username and passphrase even if you already set up the ssh access and sucessfully authorized, because you have set up the 2FA, so now enter your username and <strong>paste the PERSONAL TOKEN(NOT YOUR REAL PASSWORD) string you got as the passphrase</strong>, this only have to do it once. More about this step can be found <a href="https://medium.com/@ginnyfahs/github-error-authentication-failed-from-command-line-3a545bfd0ca8"target="_blank">here</a>.</p>
 <h2 id="delete-a-post">Delete a post</h2>
 <p><del><a href="https://gohugo.io/getting-started/usage/#deploy-your-website"target="_blank">It seems that hugo does not support nor care the auto-delete-update</a>, you just have to delete the post yourself, and destroy the whole folder &lsquo;public&rsquo; before you build the site.</del></p>
-<p>Run:</p>
+<p><del>Run:</p>
 <p><code>hugo --cleanDestinationDir</code></p>
 <p>to remove files from destination(e.g. &lsquo;public&rsquo;) not found in static directories in order to sync the deletion.</p>
-<p>More: <a href="https://gohugo.io/commands/hugo_server/#options">https://gohugo.io/commands/hugo_server/#options</a></p>
+<p>More: <a href="https://gohugo.io/commands/hugo_server/#options">https://gohugo.io/commands/hugo_server/#options</a></del></p>
+<p>Don&rsquo;t run <code>hugo --cleanDestinationDir</code>, something wrong will occor in git. Manually delete the files in folder &lsquo;public&rsquo; is so far the best way, or run a shell script.</p>
 <h2 id="acidentally-delete-the-folder-public">Acidentally delete the folder &lsquo;public&rsquo;</h2>
 <p>If you acidentally delete (e.g. <code>rm -rf public</code>) the folder which Hugo uses to place the rendered flies, you probably will encounter this error when you try to git push:</p>
 <p><code>fatal: in unpopulated submodule 'public'</code></p>
