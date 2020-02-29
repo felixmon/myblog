@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>science on Keep Calm and Carry On Coding</title>
+    <link>/categories/science/</link>
+    <description>Recent content in science on Keep Calm and Carry On Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>MIT License</copyright>
+    <lastBuildDate>Tue, 25 Feb 2020 02:11:39 +0800</lastBuildDate>
+    
+        <atom:link href="/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Math for Programmers</title>
+      <link>/posts/math-books-for-programmer/</link>
+      <pubDate>Tue, 25 Feb 2020 02:11:39 +0800</pubDate>
+      
+      <guid>/posts/math-books-for-programmer/</guid>
+      <description>https://github.com/liyu13264/programmer_math</description>
+    </item>
+    
+  </channel>
+</rss>

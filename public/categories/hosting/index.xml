@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hosting on Keep Calm and Carry On Coding</title>
+    <link>/categories/hosting/</link>
+    <description>Recent content in hosting on Keep Calm and Carry On Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>MIT License</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 17:22:17 +0800</lastBuildDate>
+    
+        <atom:link href="/categories/hosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Theme Summary</title>
+      <link>/posts/hugo-theme-summary/</link>
+      <pubDate>Fri, 28 Feb 2020 17:22:17 +0800</pubDate>
+      
+      <guid>/posts/hugo-theme-summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guide to host Hugo with Github Page</title>
+      <link>/posts/deploy/</link>
+      <pubDate>Mon, 24 Feb 2020 00:44:54 +0800</pubDate>
+      
+      <guid>/posts/deploy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

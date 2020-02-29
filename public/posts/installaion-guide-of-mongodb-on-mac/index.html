@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.65.3" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>Installaion Guide of MongoDB on MAC&nbsp;&ndash;&nbsp;Keep Calm and Carry On Coding</title><link rel="stylesheet" href="/css/core.min.cf8ed48526ff196fc19fffd9d9778e0daaea7dbe4f20b4df97cdd483aa877f02522bd6ef294c8eae340a0e4446c33cc7.css" integrity="sha384-z47UhSb/GW/Bn//Z2XeODarqfb5PILTfl83Ug6qHfwJSK9bvKUyOrjQKDkRGwzzH"><body>
+    <div class="base-body"><section id="header" class="site header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">Keep Calm and Carry On Coding</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/categories/">Categories</a><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a></nav></div></span></div></section><div id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">Installaion Guide of MongoDB on MAC</h1><p class="article date">Tuesday, February 25, 2020</p></section><article class="article markdown-body"><p><a href="https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/"target="_blank">Guide on the Official Website</a></p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">brew tap mongodb/brew 
+
+brew install 
+
+mongod --config /usr/local/etc/mongod.conf
+</code></pre></div><p>Alternatively, to run MongoDB as a macOS service, issue the following (the process uses the /usr/local/etc/mongod.conf file, created during the install):</p>
+<div class="highlight"><pre class="chroma"><code class="language-shell" data-lang="shell">brew services start mongodb-community@4.0
+</code></pre></div><p>For MongoDB GUI: Robo 3T <a href="http://robomongo.org">http://robomongo.org</a></p></article><section class="article labels"><a class="category" href=/categories/database/>database</a><a class="tag" href=/tags/mongodb/>mongodb</a></section><section class="article license">MIT License</section></div><section class="article navigation"><p><a class="link" href="/posts/hugo-theme-summary/"><span class="li">&larr;</span>Hugo Theme Summary</a></p><p><a class="link" href="/posts/math-books-for-programmer/"><span class="li">&rarr;</span>Math for Programmers</a></p></section></div><section id="footer" class="footer"><div class="footer-wrap">
+    <p class="copyright">MIT License</p>
+    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p>
+</div></section><script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-e/4/LvThKH1gwzXhdbY2AsjR3rm7LHWyhIG5C0jiRfn8AN2eTN5ILeztWw0H9jmN" crossorigin="anonymous"></script>
+        <script
+            type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script></div>
+</body>
+
+</html>

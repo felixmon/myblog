@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Keep Calm and Carry On Coding</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Keep Calm and Carry On Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>MIT License</copyright>
+    <lastBuildDate>Sat, 29 Feb 2020 15:41:29 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>google</title>
+      <link>/tags/google/</link>
+      <pubDate>Sat, 29 Feb 2020 15:41:29 +0800</pubDate>
+      
+      <guid>/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ocr</title>
+      <link>/tags/ocr/</link>
+      <pubDate>Sat, 29 Feb 2020 15:41:29 +0800</pubDate>
+      
+      <guid>/tags/ocr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vision</title>
+      <link>/tags/vision/</link>
+      <pubDate>Sat, 29 Feb 2020 15:41:29 +0800</pubDate>
+      
+      <guid>/tags/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finance</title>
+      <link>/tags/finance/</link>
+      <pubDate>Sat, 29 Feb 2020 01:09:59 +0800</pubDate>
+      
+      <guid>/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>/tags/links/</link>
+      <pubDate>Sat, 29 Feb 2020 01:09:59 +0800</pubDate>
+      
+      <guid>/tags/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>/tags/git/</link>
+      <pubDate>Fri, 28 Feb 2020 19:48:53 +0800</pubDate>
+      
+      <guid>/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>/tags/github/</link>
+      <pubDate>Fri, 28 Feb 2020 19:48:53 +0800</pubDate>
+      
+      <guid>/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Fri, 28 Feb 2020 17:22:17 +0800</pubDate>
+      
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongodb</title>
+      <link>/tags/mongodb/</link>
+      <pubDate>Tue, 25 Feb 2020 23:22:59 +0800</pubDate>
+      
+      <guid>/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ebooks</title>
+      <link>/tags/ebooks/</link>
+      <pubDate>Tue, 25 Feb 2020 02:11:39 +0800</pubDate>
+      
+      <guid>/tags/ebooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>/tags/math/</link>
+      <pubDate>Tue, 25 Feb 2020 02:11:39 +0800</pubDate>
+      
+      <guid>/tags/math/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

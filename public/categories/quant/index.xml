@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quant on Keep Calm and Carry On Coding</title>
+    <link>/categories/quant/</link>
+    <description>Recent content in quant on Keep Calm and Carry On Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>MIT License</copyright>
+    <lastBuildDate>Sat, 29 Feb 2020 01:09:59 +0800</lastBuildDate>
+    
+        <atom:link href="/categories/quant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finance Figures Open APIs</title>
+      <link>/posts/finan-quant-links/</link>
+      <pubDate>Sat, 29 Feb 2020 01:09:59 +0800</pubDate>
+      
+      <guid>/posts/finan-quant-links/</guid>
+      <description>cninfo   API: http://webapi.cninfo.com.cn/#/myApi
+  Basic info: http://webapi.cninfo.com.cn/api/sysapi/p_sysapi1018?scode=002055 method = post
+  Income statment overview : http://webapi.cninfo.com.cn/api/stock/p_stock2332?scode=002055&amp;amp;sdate=20190930&amp;amp;edate=20190930&amp;amp;type=071001 method = post
+  Cash flow : http://webapi.cninfo.com.cn/api/stock/p_stock2333?scode=002055&amp;amp;sdate=20190331&amp;amp;edate=20190331&amp;amp;type=071001 method = post
+  Indicators : http://webapi.cninfo.com.cn/api/stock/p_stock2303?scode=002055&amp;amp;rdate=20190930&amp;amp;type=071001 method = post
+  Wind  visualization: https://wx.wind.com.cn/reactweb/YearReport/index.html?from=singlemessage#/report?windCode=002055.SZ&amp;amp;typeCode=0  </description>
+    </item>
+    
+  </channel>
+</rss>

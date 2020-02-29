@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google on Keep Calm and Carry On Coding</title>
+    <link>/tags/google/</link>
+    <description>Recent content in google on Keep Calm and Carry On Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>MIT License</copyright>
+    <lastBuildDate>Sat, 29 Feb 2020 15:41:29 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Cloud Vision API</title>
+      <link>/posts/google-cloud-vision-api/</link>
+      <pubDate>Sat, 29 Feb 2020 15:41:29 +0800</pubDate>
+      
+      <guid>/posts/google-cloud-vision-api/</guid>
+      <description>Obsolete Modules Error: ModuleNotFoundError: No module named &amp;lsquo;google.cloud&amp;rsquo;
+pip install --upgrade google-cloud-speech
+Error: ImportError: cannot import name &amp;lsquo;vision&amp;rsquo; from &amp;lsquo;google.cloud&amp;rsquo; (unknown location)
+pip install --upgrade setuptools pip wheel
+pip install google-cloud-vision
+Re-Auth https://cloud.google.com/vision/docs/setup#auth
+Note that you may want to check your $PATH before you start.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mongodb on Keep Calm and Carry On Coding</title>
+    <link>/tags/mongodb/</link>
+    <description>Recent content in mongodb on Keep Calm and Carry On Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>MIT License</copyright>
+    <lastBuildDate>Tue, 25 Feb 2020 23:22:59 +0800</lastBuildDate>
+    
+        <atom:link href="/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installaion Guide of MongoDB on MAC</title>
+      <link>/posts/installaion-guide-of-mongodb-on-mac/</link>
+      <pubDate>Tue, 25 Feb 2020 23:22:59 +0800</pubDate>
+      
+      <guid>/posts/installaion-guide-of-mongodb-on-mac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
